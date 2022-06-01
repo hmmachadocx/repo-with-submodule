@@ -1,0 +1,3 @@
+[submodule "small-project"]
+	path = small-project
+	url = https://dev.azure.com/VisualStudio-Org/submodule-Proj/_git/small-project
